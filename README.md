@@ -1,6 +1,6 @@
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)
+Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_user_behavior/blob/main/Girya_analysis_user_behavior.ipynb)
 
 ---
 
@@ -57,6 +57,6 @@
 
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/moscow_catering_analysis/blob/main/Girya_moscow_catering_analysis.ipynb)
+Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_user_behavior/blob/main/Girya_analysis_user_behavior.ipynb)
 
 ---
