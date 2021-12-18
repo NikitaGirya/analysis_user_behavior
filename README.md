@@ -1,6 +1,7 @@
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_user_behavior/blob/main/Girya_analysis_user_behavior.ipynb)
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_user_behavior/blob/main/Girya_analysis_user_behavior.ipynb)**
 
 ---
 
@@ -57,6 +58,7 @@
 
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_user_behavior/blob/main/Girya_analysis_user_behavior.ipynb)
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_user_behavior/blob/main/Girya_analysis_user_behavior.ipynb)**
 
 ---
