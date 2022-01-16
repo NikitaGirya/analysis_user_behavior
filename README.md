@@ -7,6 +7,8 @@
 
 # Анализ поведения пользователей мобильного приложения
 
+`pandas`  `numpy`  `math`  `scipy`  `plotly`
+
 ---
 
 <p align='center'>
